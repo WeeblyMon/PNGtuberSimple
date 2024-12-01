@@ -207,6 +207,8 @@ class App(QtWidgets.QWidget):
 if __name__ == "__main__":
     signal.signal(signal.SIGINT, lambda sig, frame: sys.exit(0))
     app = QtWidgets.QApplication(sys.argv)
+    app.setApplicationName("PNGtuber") 
+    #app.setWindowIcon(QtGui.QIcon("path//icon.png")) 
     main_app = App()
     main_app.show()
     sys.exit(app.exec_())
