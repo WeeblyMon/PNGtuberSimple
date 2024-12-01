@@ -1,0 +1,10 @@
+{
+    "TARGET_APP": "EDCoPilot.exe",
+    "VOLUME_THRESHOLD": 0.2,
+    "IMAGE_HIGH_VOLUME": "640px-Neurofumo.png",
+    "IMAGE_LOW_VOLUME": "inactive_default.png",
+    "MAX_IMAGE_SIZE": 700,
+    "INCREASE_SIZE_KEY": "Up",
+    "DECREASE_SIZE_KEY": "Down",
+    "CLOSE_KEY": "F4"
+}

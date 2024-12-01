@@ -1,0 +1,17 @@
+Valid Keys for Hotkeys:
+=======================
+- Arrow Keys: Up, Down, Left, Right
+- Letter Keys: A-Z (case-insensitive)
+- Number Keys: 0-9
+- Function Keys: F1-F12
+- Modifier Keys:
+  - Shift_L (Left Shift)
+  - Shift_R (Right Shift)
+  - Control_L (Left Control)
+  - Control_R (Right Control)
+  - Alt_L (Left Alt)
+  - Alt_R (Right Alt)
+  - Caps_Lock, Tab, Escape
+- Special Keys: Space, Return (Enter), BackSpace, Delete, Insert
+- Navigation Keys: Home, End, Page_Up, Page_Down
+- Symbols: `, -, =, [, ], \, ;, ', ,, ., /
